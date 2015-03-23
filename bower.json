@@ -1,0 +1,21 @@
+{
+  "name": "fancyselect",
+  "main": "FancySelect.js",
+  "version": "0.0.0",
+  "homepage": "''",
+  "authors": [
+    "''"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "main":[
+    "fancySelect.js",
+    "fancySelect.css"
+  ]
+}
